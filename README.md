@@ -1,2 +1,2 @@
 # blackjack-web
-refactor of the game as a web app
+A blackjack game on the internet. That's it.
