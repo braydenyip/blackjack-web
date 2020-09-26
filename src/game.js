@@ -3,5 +3,6 @@ function game() {
 }
 
 function generateDeck(){
-
+  var cards = $.getJSON("/deck.json");
+  return cards;
 }
